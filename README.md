@@ -2,7 +2,7 @@
 
 I'm a software engineer proficient in full-stack web development, automation, tools building, and data science. I've applied and mastered various technologies through diverse project work. I love to learn new things and contribute to projects in a collaborative environment. Feel free to check my tech stack experience and reach out for collaboration or feedback!
 
- <p align="center"><img src="https://komarev.com/ghpvc/?username=devkai43&label=Profile%20views&color=0e75b6&style=flat" alt="."/></p> 
+ <p align="center"><img src="https://komarev.com/ghpvc/?username=onebillionam&label=Profile%20views&color=0e75b6&style=flat" alt="."/></p> 
 
 <!--<img src="./assets/linear_flashing_line.gif" alt="." />-->
 
@@ -85,6 +85,6 @@ I'm a software engineer proficient in full-stack web development, automation, to
 ## GitHub stats <img src="./assets/Chart Decreasing.webp" alt=" " width=20 />
 
 <p align=center>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kayz3nn&theme=travelers-theme" alt="GitHub Stats" />
-<!--   <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kayz3nn&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onebillionam&theme=travelers-theme" alt="GitHub Stats" />
+<!--   <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onebillionam&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /> -->
 </p>
